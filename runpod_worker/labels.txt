@@ -1,83 +1,45 @@
 dog
 cat
 bird
-fish
 horse
 cow
 sheep
+elephant
+bear
 lion
 tiger
-bear
-elephant
-giraffe
-zebra
 monkey
 rabbit
-squirrel
-deer
-fox
-wolf
 duck
 chicken
-goose
-pig
-frog
-turtle
-snake
-butterfly
-bee
-spider
-mouse
+fish
 car
 truck
 bus
 train
 airplane
-helicopter
-boat
-ship
 bicycle
 motorcycle
-scooter
+boat
+helicopter
 taxi
 ambulance
 fire truck
-police car
-van
-suv
-tractor
-bulldozer
-crane
 apple
 banana
 orange
-grape
-strawberry
-watermelon
 pizza
 burger
 sandwich
-hot dog
-salad
-pasta
 bread
 cake
-cookie
-donut
-ice cream
 coffee
-tea
-beer
 wine
-milk
-cheese
+beer
+salad
+pasta
 egg
-chicken
-steak
-fish
-rice
-potato
-tomato
+cheese
 chair
 table
 sofa
@@ -85,17 +47,11 @@ bed
 lamp
 television
 computer
-keyboard
-mouse
 phone
 book
 cup
 plate
-fork
-spoon
-knife
 bottle
-vase
 clock
 mirror
 window
@@ -103,400 +59,48 @@ door
 refrigerator
 microwave
 oven
-toaster
-blender
 vacuum
-washing machine
-dryer
 shirt
 pants
 dress
-skirt
 jacket
-coat
-sweater
 hat
-cap
-scarf
-gloves
 shoes
 boots
-sneakers
-sandals
-socks
-tie
-belt
 bag
 backpack
+glasses
 ball
 football
 basketball
-baseball
 tennis
-soccer
-golf
-hockey
 skateboard
 surfboard
-bicycle
-running
-swimming
-skiing
-snowboard
 tree
 flower
-grass
 mountain
-sky
-cloud
-sun
-moon
-star
-ocean
-lake
-river
 beach
-rock
-stone
-sand
-snow
-rain
-lightning
-rainbow
-hammer
-screwdriver
-wrench
-saw
-drill
-nail
-screw
-ladder
-toolbox
-scissors
-tape
-glue
-paint
-brush
-pencil
+umbrella
 laptop
 tablet
 smartphone
 camera
 headphones
-speaker
+keyboard
+mouse
 remote control
-charger
-battery
-usb
+hammer
+screwdriver
+scissors
+pen
+pencil
+notebook
+paper
+wallet
 person
 face
 hand
-eye
 building
 road
 sign
-flag
-money
-key
-pen
-paper
-notebook
-glasses
-watch
-umbrella
-briefcase
-suitcase
-wallet
-keys
-lighter
-candle
-flashlight
-picture
-photo
-painting
-poster
-carpet
-rug
-pillow
-blanket
-towel
-soap
-shampoo
-toothbrush
-razor
-comb
-brush
-toilet
-sink
-bathtub
-shower
-faucet
-drone
-smartwatch
-airpods
-earbuds
-headset
-vr headset
-gaming console
-playstation
-xbox
-nintendo
-controller
-joystick
-monitor
-router
-modem
-wifi
-projector
-printer
-scanner
-webcam
-microphone
-action camera
-gopro
-ring light
-tripod
-gimbal
-power bank
-usb cable
-hdmi cable
-adapter
-external hard drive
-ssd
-flash drive
-memory card
-sushi
-tacos
-burrito
-noodles
-ramen
-croissant
-bagel
-pancakes
-waffles
-muffin
-cupcake
-pie
-soda
-juice
-smoothie
-chips
-popcorn
-candy
-chocolate
-gum
-dolphin
-whale
-shark
-seal
-penguin
-owl
-parrot
-eagle
-hawk
-peacock
-flamingo
-pelican
-stork
-panda
-koala
-kangaroo
-llama
-alpaca
-camel
-hedgehog
-raccoon
-otter
-beaver
-cactus
-plant
-succulent
-bonsai
-vines
-leaves
-petals
-seed
-pot
-planter
-garden
-fence
-gate
-mailbox
-driveway
-garage
-sidewalk
-streetlight
-traffic light
-stop sign
-parking meter
-fire hydrant
-bench
-fountain
-statue
-monument
-bridge
-tunnel
-tower
-castle
-tent
-sleeping bag
-camping
-hiking
-backpack
-water bottle
-thermos
-canteen
-compass
-binoculars
-map
-gps
-flashlight
-lantern
-campfire
-bbq grill
-cooler
-picnic
-frisbee
-kite
-yo-yo
-puzzle
-lego
-toy
-doll
-teddy bear
-action figure
-board game
-cards
-dice
-dominos
-chess
-checkers
-rubiks cube
-balloons
-confetti
-gift
-present
-wrapping paper
-ribbon
-bow
-card
-envelope
-stamp
-postcard
-letter
-magazine
-newspaper
-journal
-diary
-calendar
-whiteboard
-marker
-eraser
-stapler
-paper clip
-folder
-binder
-highlighter
-ruler
-protractor
-calculator
-globe
-microscope
-telescope
-beaker
-test tube
-flask
-petri dish
-syringe
-stethoscope
-thermometer
-bandage
-pill
-medicine
-vitamin
-inhaler
-crutches
-wheelchair
-walker
-treadmill
-dumbbell
-barbell
-kettlebell
-yoga mat
-exercise bike
-jump rope
-stopwatch
-whistle
-trophy
-medal
-certificate
-diploma
-lipstick
-makeup
-mascara
-eyeliner
-foundation
-blush
-nail polish
-perfume
-deodorant
-lotion
-moisturizer
-sunscreen
-hair dryer
-straightener
-curling iron
-electric shaver
-beard trimmer
-toothpaste
-mouthwash
-dental floss
-contact lens
-eyedrops
-tissue
-cotton swab
-cotton ball
-bandaid
-ice pack
-heating pad
-face mask
-hand sanitizer
-disinfectant
-spray bottle
-mop
-broom
-dustpan
-bucket
-sponge
-dish soap
-detergent
-fabric softener
-iron
-ironing board
-hanger
-laundry basket
-trash can
-recycling bin
-compost bin
-shopping cart
-shopping bag
-grocery bag
-receipt
-barcode
-qr code
-sticker
-label
-tag
-zipper
-button
-thread
-needle
-sewing machine
-knitting
-yarn
-fabric
-leather
-denim
-cotton
-silk
-wool
+sky
