@@ -15,8 +15,8 @@ def load_model():
     """Load CLIP model and labels on cold start"""
     global model, processor, labels
 
-    print("Loading MobileCLIP model...")
-    model_name = "apple/MobileCLIP-S2-OpenCLIP"
+    print("Loading SigLIP model...")
+    model_name = "google/siglip-base-patch16-224"
     model = CLIPModel.from_pretrained(model_name)
     processor = CLIPProcessor.from_pretrained(model_name)
 

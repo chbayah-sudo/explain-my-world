@@ -13,10 +13,10 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY handler.py .
 COPY labels.txt .
 
-# Download MobileCLIP model during build (for faster cold starts)
+# Download SigLIP model during build (for faster cold starts)
 RUN python -c "from transformers import CLIPModel, CLIPProcessor; \
-    CLIPModel.from_pretrained('apple/MobileCLIP-S2-OpenCLIP'); \
-    CLIPProcessor.from_pretrained('apple/MobileCLIP-S2-OpenCLIP')"
+    CLIPModel.from_pretrained('google/siglip-base-patch16-224'); \
+    CLIPProcessor.from_pretrained('google/siglip-base-patch16-224')"
 
 # Start the handler
 CMD ["python", "-u", "handler.py"]
