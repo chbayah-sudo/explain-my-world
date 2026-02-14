@@ -15,8 +15,8 @@ def load_model():
     """Load CLIP model and labels on cold start"""
     global model, processor, labels
 
-    print("Loading CLIP model...")
-    model_name = "openai/clip-vit-base-patch32"
+    print("Loading MobileCLIP model...")
+    model_name = "apple/MobileCLIP-S2-OpenCLIP"
     model = CLIPModel.from_pretrained(model_name)
     processor = CLIPProcessor.from_pretrained(model_name)
 
