@@ -13,10 +13,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY handler.py .
 COPY labels.txt .
 
-# Download SigLIP model during build (for faster cold starts)
-RUN python -c "from transformers import CLIPModel, CLIPProcessor; \
-    CLIPModel.from_pretrained('google/siglip-base-patch16-224'); \
-    CLIPProcessor.from_pretrained('google/siglip-base-patch16-224')"
+# Model will download on first run (cold start)
+# This avoids build issues and keeps image smaller
 
 # Start the handler
 CMD ["python", "-u", "handler.py"]

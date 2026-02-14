@@ -1,7 +1,7 @@
 import runpod
 import torch
 from PIL import Image
-from transformers import CLIPProcessor, CLIPModel
+from transformers import AutoProcessor, AutoModel
 import base64
 from io import BytesIO
 
@@ -17,8 +17,8 @@ def load_model():
 
     print("Loading SigLIP model...")
     model_name = "google/siglip-base-patch16-224"
-    model = CLIPModel.from_pretrained(model_name)
-    processor = CLIPProcessor.from_pretrained(model_name)
+    model = AutoModel.from_pretrained(model_name)
+    processor = AutoProcessor.from_pretrained(model_name)
 
     # Move to GPU if available
     device = "cuda" if torch.cuda.is_available() else "cpu"
